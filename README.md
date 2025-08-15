@@ -3,7 +3,7 @@ This project demonstrates a mock QA test case automation and reporting workflow,
 
 ## **Folder Structure**
 QA_Test_Case_Automation_Reporting/
-**├── data/ → Mock CSV/Excel datasets
+├── data/ → Mock CSV/Excel datasets
 ├── notebooks/ → Jupyter notebooks (.ipynb)
 ├── scripts/ → Reusable Python scripts (.py)
 ├── visualizations/ → PNG/JPG/HTML charts
