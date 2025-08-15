@@ -90,4 +90,3 @@ QA_Test_Automation_Analytics
 This project uses **simulated data only**. No real customer or sensitive information is included. It is intended for educational and portfolio purposes.
 
 ---
-`qa`, `uat`, `test-automation`, `reporting`, `python`, `pandas`, `data-analysis`, `bfsi`
