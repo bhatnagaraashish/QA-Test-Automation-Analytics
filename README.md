@@ -6,13 +6,12 @@ This project demonstrates a mock QA and UAT test case automation and reporting w
 
 ## **Folder Structure**
 
-QA_Test_Automation_Analytics/
-│
-├── data/ → Mock CSV/Excel datasets
-├── notebooks/ → Jupyter notebooks (.ipynb)
-├── scripts/ → Reusable Python scripts (.py)
-├── visualizations/ → PNG/JPG/HTML charts
-└── README.md → Project description
+QA_Test_Automation_Analytics
+-data/ → Mock CSV/Excel datasets
+-notebooks/ → Jupyter notebooks (.ipynb)
+-scripts/ → Reusable Python scripts (.py)
+-visualizations/ → PNG/JPG/HTML charts
+-README.md → Project description
 
 ---
 
